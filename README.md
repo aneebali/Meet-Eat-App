@@ -1,6 +1,7 @@
 # Meet-Eat-App
 
-(https://user-images.githubusercontent.com/38525302/75143734-6b0b7a00-5717-11ea-9741-2895a0391e58.jpg)
+![2084379554-meetneat](https://user-images.githubusercontent.com/38525302/75143734-6b0b7a00-5717-11ea-9741-2895a0391e58.jpg)
+
 
 
 Meet and Eat is a platform where you can join and make new friends and share the meal to experience someone’s company and a new culinary adventure. You find your best romantic dinner here!
